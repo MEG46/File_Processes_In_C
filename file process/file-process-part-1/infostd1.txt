@@ -1,0 +1,60 @@
+Name: Esad
+Surname: Goncaloglu
+1st Quiz: 100
+2nd Quiz: 100
+Midterm: 90
+Final: 92
+Stduent Average : 92.80
+General Average :65.96
+Mark : AA
+
+--------------------------------------------
+
+Name: Meral
+Surname: Sert
+1st Quiz: 20
+2nd Quiz: 50
+Midterm: 40
+Final: 20
+Stduent Average : 31.00
+General Average :65.96
+Mark : FF
+
+--------------------------------------------
+
+Name: Sevim
+Surname: Hediye
+1st Quiz: 30
+2nd Quiz: 70
+Midterm: 54
+Final: 87
+Stduent Average : 66.40
+General Average :65.96
+Mark : CC
+
+--------------------------------------------
+
+Name: Mert
+Surname: Selim
+1st Quiz: 43
+2nd Quiz: 65
+Midterm: 56
+Final: 65
+Stduent Average : 59.20
+General Average :65.96
+Mark : DC
+
+--------------------------------------------
+
+Name: Sedef
+Surname: Kizil
+1st Quiz: 43
+2nd Quiz: 65
+Midterm: 98
+Final: 76
+Stduent Average : 80.40
+General Average :65.96
+Mark : BB
+
+--------------------------------------------
+

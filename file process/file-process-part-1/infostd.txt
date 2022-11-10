@@ -1,0 +1,5 @@
+Esad Goncaloglu 100 100 90 92 
+Meral Sert 20 50 40 20
+Sevim Hediye 30 70 54 87
+Mert Selim 43 65 56 65
+Sedef Kizil 43 65 98 76
